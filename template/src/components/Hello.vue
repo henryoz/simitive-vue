@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1>Check your console!</h1>
   </div>
 </template>
 
@@ -13,6 +13,7 @@
 </style>
 
 <script>
+console.log("Hello world! If you're seeing this then everything is working <3");
 export default {
   data() {
     return {
