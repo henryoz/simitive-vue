@@ -1,4 +1,4 @@
-# vue-vuex-browserify-boilerplate
+# Simitive Vue
 
 > A Vue.js scaffold / vue-cli template. Made by henryoz.
 
